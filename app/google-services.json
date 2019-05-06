@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "306701208571",
+    "firebase_url": "https://kursusera-10d1f.firebaseio.com",
+    "project_id": "kursusera-10d1f",
+    "storage_bucket": "kursusera-10d1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306701208571:android:181ea62868177368",
+        "android_client_info": {
+          "package_name": "com.exercise.raynard.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306701208571-4nrbnsmlp2lncq76a26iol7c3630idam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exercise.raynard.firebaseexample",
+            "certificate_hash": "aef692bd679aeeba363b3bd7688dd88fec834ab9"
+          }
+        },
+        {
+          "client_id": "306701208571-bitfk0cim3ga3rr5qnfpjei8v7umq91i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu3j6R1cIn4NwlMUHoGo2QE5hpBX-ycoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306701208571-bitfk0cim3ga3rr5qnfpjei8v7umq91i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306701208571:android:7e4e1bb23c5bf5d2",
+        "android_client_info": {
+          "package_name": "com.exercise.raynard.firebaseexercise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306701208571-nepr4h6q734hsvip6h38facvcr1hgf5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exercise.raynard.firebaseexercise",
+            "certificate_hash": "aef692bd679aeeba363b3bd7688dd88fec834ab9"
+          }
+        },
+        {
+          "client_id": "306701208571-bitfk0cim3ga3rr5qnfpjei8v7umq91i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu3j6R1cIn4NwlMUHoGo2QE5hpBX-ycoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306701208571-bitfk0cim3ga3rr5qnfpjei8v7umq91i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306701208571:android:9d64515eaba649a5",
+        "android_client_info": {
+          "package_name": "com.exercise.raynard.kursusera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306701208571-mqm266bt6qt2nkpo6cumvjvbm1610gli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exercise.raynard.kursusera",
+            "certificate_hash": "aef692bd679aeeba363b3bd7688dd88fec834ab9"
+          }
+        },
+        {
+          "client_id": "306701208571-bitfk0cim3ga3rr5qnfpjei8v7umq91i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu3j6R1cIn4NwlMUHoGo2QE5hpBX-ycoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306701208571-bitfk0cim3ga3rr5qnfpjei8v7umq91i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
